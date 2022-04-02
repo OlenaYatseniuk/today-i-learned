@@ -7,3 +7,4 @@ git init - initialized empty git repository
 ls -a -show you all directory, even unvisible, such as .git
 git status - show have you commit now or not yet
 git add NameDirectory - add to git
+git commit - add commit
